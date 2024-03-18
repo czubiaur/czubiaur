@@ -27,4 +27,3 @@ Here are some ideas to get you started:
 
 ## Get in Touch
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/carlos-zubiaur/)
-- ✉️ Drop me an email at [your.email@example.com](mailto:czubiaur96@gmail.com)
