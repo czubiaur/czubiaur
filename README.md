@@ -22,8 +22,5 @@ Here are some ideas to get you started:
 ## Projects
 - 🚧 My repositories are currently under construction, but stay tuned for exciting projects coming soon!
 
-## Note
-- Of course, this has been writing using AI. 😁
-
 ## Get in Touch
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/carlos-zubiaur/)
